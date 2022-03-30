@@ -6,8 +6,8 @@ Find the project requirements here: [Alpaca image generator website](https://www
 ## Tech/framework used
 
 Built with
-\ReactJS
-\SASS
+\_ReactJS
+\_SASS
 
 ## Screenshots and demo
 
